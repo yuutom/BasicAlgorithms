@@ -1,4 +1,4 @@
-# 個数制限なしナップサックDP
+# 個数制限なしナップサックdp
 #https://atcoder.jp/contests/abc153/tasks/abc153_e
 
 H, N = map(int, input().split())
